@@ -32,6 +32,7 @@ Gambar-gambar di folder ini digunakan untuk:
 ## 📷 Dokumentasi
 
   ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMPN-1-Jetis-Ponorogo/blob/main/image/Instalasi%20Videotron.jpeg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMPN-1-Jetis-Ponorogo/blob/main/image/Videotron.jpeg)
 
 ---
 
