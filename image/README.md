@@ -29,5 +29,11 @@ Gambar-gambar di folder ini digunakan untuk:
 
 ---
 
+## 📷 Dokumentasi Pemasangan
+
+  ![ Dokumentasi Pemasangan](https://github.com/Frendi-X/Videotron-SMPN-1-Jetis-Ponorogo/blob/main/image/1.%20P2.5_1065L_5158_32S.png)
+
+---
+
 > 📝 **Catatan:**  
 > Pastikan dokumentasi gambar selalu diperbarui sesuai kondisi terbaru di lapangan agar memudahkan proses _maintenance_ dan _troubleshooting_.
