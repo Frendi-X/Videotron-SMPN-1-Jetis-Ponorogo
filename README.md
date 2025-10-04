@@ -29,4 +29,10 @@ Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** vi
 ## Contacs us : 
 * [Frendi RoboTech](https://www.instagram.com/frendi.co/)  
 * [Whatsapp : +6287888227410](https://wa.me/+6287888227410)  
-* [Email    : frendirobotech@gmail.com](mailto:frendirobotech@gmail.com)  
+* [Email    : frendirobotech@gmail.com](mailto:frendirobotech@gmail.com)
+
+---
+
+## 👨‍💻 Author
+Dikembangkan oleh: Imam Sa'id Nurfrendi [Reog Robotic & Robotech Electronics]  
+Lisensi: Open Source (MIT)
